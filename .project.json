@@ -28,7 +28,7 @@
     "targetFolder": "dist",
     "excludedFolders": [],
     "excludedFiles": [],
-    "lastBuildDateTime": "Wed, 22 Aug 2018 11:51:01 GMT"
+    "lastBuildDateTime": "Thu, 23 Aug 2018 16:04:44 GMT"
   },
   "deploy": {
     "destination": "GWD",
